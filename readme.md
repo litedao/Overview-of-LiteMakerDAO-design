@@ -1,4 +1,4 @@
-# Overview of MakerDAO design ⬙
+# Overview of VaporDAO design ⬙
 
 This page serves as a wiki for the MakerDAO design team. Its meant to serve both the community and internal Maker members. On this page you will find all assets, designs, research and contact details for the [Maker](https://makerdao.com/) design team. 
 
